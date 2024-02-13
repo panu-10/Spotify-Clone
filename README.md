@@ -1,5 +1,5 @@
-Link-> 
-pranav-spotify.netlify.app
+Link-> https://pranav-spotify.netlify.app/
+
 
 
 
